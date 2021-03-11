@@ -44,4 +44,4 @@ print (univ)
 print (angkatan)
 
 #Menceritakan diri
-print ("Perkenalkan namaku", nama, "aku berjenis kelamin", jenis_kelamin "aku tinggal di", alamat, "umurku", umur_dalam_tahun, "tahun", umur_dalam_bulan, "bulan", umur_dalam_hari, "hari. Tinggiku", tinggi_badan, "cm. Hobiku", hobi, "makanan dan minuman favoritku yaitu", makanan_favorit, "dan", minuman_favorit, "\nAku merupakan seorang", pekerjaan, prodi, univ, "angkatan", angkatan)
+print ("Perkenalkan namaku", nama, ". Aku berjenis kelamin", jenis_kelamin, ". Aku tinggal di", alamat, ". Umurku", umur_dalam_tahun, "tahun", umur_dalam_bulan, "bulan", umur_dalam_hari, "hari. Tinggiku", tinggi_badan, "cm. Hobiku", hobi, ". Makanan dan minuman favoritku yaitu", makanan_favorit, "dan", minuman_favorit, "\nAku merupakan seorang", pekerjaan, prodi, univ, "angkatan", angkatan)
