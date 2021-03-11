@@ -27,7 +27,7 @@ umur_dalam_tahun = umur_dalam_bulan / 12
 umur_dalam_hari = umur_dalam_bulan * 30
 
 #Output
-print (Profil singkat saya sebagai berikut :)
+print ("Profil singkat saya sebagai berikut :")
 print (nama)
 print (jenis_kelamin)
 print (alamat)
